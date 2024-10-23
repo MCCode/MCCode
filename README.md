@@ -1,7 +1,6 @@
 <h1>¡Hola! ¡Me alegro de verte!.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p>¡Bienvenid@ a mi página!</br> 
-¡Hola! Soy Marco, un **Full Stack Developer** de **Buenos Aires**, **Argentina**. Me apasiona la **Programación** y su aprendizaje continuo. Aunque todavía no tengo experiencia profesional, me encantaría unirme a una empresa o proyectos donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador, aportando soluciones, mejorando y seguir aprendiendo. ¡Estoy listo para mejorar cada día y aprender de los desafíos que se presenten!.
+<p>¡Bienvenid@ a mi página!</br> </br>¡Hola! Soy Marco, un **Full Stack Developer** de **Buenos Aires**, **Argentina**. Me apasiona la **Programación** y su aprendizaje continuo. Aunque todavía no tengo experiencia profesional, me encantaría unirme a una empresa o proyectos donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador, aportando soluciones, mejorando y seguir aprendiendo. ¡Estoy listo para mejorar cada día y aprender de los desafíos que se presenten!.
 
 <h3>Things I code with</h3>
 <p>
