@@ -2,9 +2,7 @@
 
 <p>¡Bienvenid@ a mi página!</p>
 
-¡Hola! Soy Marco, un **Full Stack Developer** de **Buenos Aires**, **Argentina**. Me apasiona la **Programación** y el aprendizaje continuo. Aunque todavía no tengo experiencia profesional, estoy entusiasmado por unirme a una empresa donde pueda aplicar mis conocimientos, seguir creciendo como desarrollador y aportar soluciones. Estoy listo para mejorar cada día y aprender de los desafíos que se presenten.
-
-¡Hola! Soy Marco, un desarrollador fullstack de Buenos Aires, Argentina. Me apasiona programar y aprender constantemente, y aunque aún no tengo experiencia profesional, me encantaría unirme a una empresa donde pueda aplicar lo que sé y seguir creciendo mis conocimientos desarrollador ¡aportando soluciones, mejorando y seguir aprendiendo!.
+¡Hola! Soy Marco, un **Full Stack Developer** de **Buenos Aires**, **Argentina**. Me apasiona la **Programación** y su aprendizaje continuo. Aunque todavía no tengo experiencia profesional, me encantaría unirme a una empresa donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador, aportando soluciones, mejorar y seguir aprendiendo. ¡Estoy listo para mejorar cada día y aprender de los desafíos que se presenten!.
 
 ## Cosas con las que programo
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
