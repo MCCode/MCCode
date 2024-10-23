@@ -10,7 +10,7 @@ Bienvenido a mi página de GitHub. Soy Marco, desarrollador fullstack con sede e
 
 ## Proyectos de código abierto
 | 📁 Proyecto |
-|-------------|-------------|-------------|-----------|
+|-------------|
 | [Mi primer proyecto](https://github.com/tu-usuario/proyecto1)
 | [Otro proyecto genial](https://github.com/tu-usuario/proyecto2)
 
@@ -20,5 +20,3 @@ Bienvenido a mi página de GitHub. Soy Marco, desarrollador fullstack con sede e
 - 🐦 [Twitter](https://twitter.com/tu-usuario)
 
 ---
-
-¡Gracias por visitar mi perfil! 😊
