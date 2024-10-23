@@ -2,7 +2,7 @@
 
 <p>¡Bienvenid@ a mi página!</br> </br>¡Hola! Soy Marco, un <b>Full Stack Developer</b> de <b>Buenos Aires</b>, <b>Argentina</b>. Me apasiona la <b>Programación</b> y su aprendizaje continuo. Aunque todavía no tengo experiencia profesional, me encantaría unirme a una empresa o proyectos donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador, aportando soluciones, mejorando y seguir aprendiendo. ¡Estoy listo para mejorar cada día y aprender de los desafíos que se presenten!.
 
-<h3>Things I code with</h3>
+<h3>Cosas con las que programo</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
