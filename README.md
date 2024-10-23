@@ -1,7 +1,7 @@
-<h1>¡Hola!¡Me alegro de verte!.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>¡Hola! ¡Me alegro de verte!.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
+<p>¡Bienvenid@ a mi página!</br> ¡Hola! Soy Marco, un **Full Stack Developer** de **Buenos Aires**, **Argentina**. Me apasiona la **Programación** y su aprendizaje continuo. Aunque todavía no tengo experiencia profesional, me encantaría unirme a una empresa o proyectos donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador, aportando soluciones, mejorando y seguir aprendiendo. ¡Estoy listo para mejorar cada día y aprender de los desafíos que se presenten!.
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
