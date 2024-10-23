@@ -2,7 +2,7 @@
 
 <p>¡Bienvenid@ a mi página!</p>
 
-¡Hola! Soy Marco, un (**Full Stack Developer**) de (**Buenos Aires**), (**Argentina**). Me apasiona la (**programación**) y el aprendizaje continuo. Aunque todavía no tengo experiencia profesional, estoy entusiasmado por unirme a una empresa donde pueda aplicar mis conocimientos, seguir creciendo como desarrollador y aportar soluciones. Estoy listo para mejorar cada día y aprender de los desafíos que se presenten.
+¡Hola! Soy Marco, un **Full Stack Developer** de **Buenos Aires**, **Argentina**. Me apasiona la **programación** y el aprendizaje continuo. Aunque todavía no tengo experiencia profesional, estoy entusiasmado por unirme a una empresa donde pueda aplicar mis conocimientos, seguir creciendo como desarrollador y aportar soluciones. Estoy listo para mejorar cada día y aprender de los desafíos que se presenten.
 
 ¡Hola! Soy Marco, un desarrollador fullstack de Buenos Aires, Argentina. Me apasiona programar y aprender constantemente, y aunque aún no tengo experiencia profesional, me encantaría unirme a una empresa donde pueda aplicar lo que sé y seguir creciendo mis conocimientos desarrollador ¡aportando soluciones, mejorando y seguir aprendiendo!.
 
