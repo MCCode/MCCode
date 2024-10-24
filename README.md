@@ -21,8 +21,8 @@
  <a href="https://x.com/Marcoca00794656" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" width="30"/></a>
  <a href="https://www.facebook.com/profile.php?id=100046039086403&locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" width="80"/></a>
  <a href="https://www.instagram.com/_.marco_.c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="85"/></a>
- <a href="https://t.me/tu_telegram" target="_blank"><img src="https://ejemplo.com/telegram.png" width="80"/></a>
- <a href="https://www.linkedin.com" target="_blank"><img src="https://ejemplo.com/linkedin.png" width="80"/></a>
+ <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2930703719" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="80"/></a>
+ <a href="https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
