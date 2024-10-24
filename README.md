@@ -11,12 +11,6 @@
  <img src="https://cdn.pixabay.com/animation/2023/11/09/03/05/03-05-45-320_512.gif" En proceso width="28"/> 
 
 <h3>¿Dónde encontrarme?</h3>
-
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Marcoca00794656) 
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046039086403&locale=es_LA) 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.marco_.c/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=2930703719) 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content) 
  
  <a href="https://x.com/Marcoca00794656" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" width="30"/></a>
  <a href="https://www.facebook.com/profile.php?id=100046039086403&locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" width="80"/></a>
