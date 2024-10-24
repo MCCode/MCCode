@@ -8,7 +8,7 @@
 
 <h3>Proyectos de código abierto</h3>
 
- <img src="https://cdn.pixabay.com/animation/2023/11/09/03/05/03-05-45-320_512.gif" En proceso width="28"/> 
+ <img src="https://cdn.pixabay.com/animation/2023/11/09/03/05/03-05-45-320_512.gif" width="28"/> 
 
 <h3>¿Dónde encontrarme?</h3>
  
@@ -16,7 +16,7 @@
  <a href="https://www.facebook.com/profile.php?id=100046039086403&locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" width="80" height="20"/></a>
  <a href="https://www.instagram.com/_.marco_.c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="80" height="20"/></a>
  <a href="https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" height="20"/></a>
-  <a href="https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" height="20"/></a>
+  <a href="marcocardozo.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" height="20"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
