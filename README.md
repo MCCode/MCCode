@@ -18,7 +18,7 @@
   </tbody>
 </table>
 <h3>¿Dónde encontrarme?</h3>
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](www.linkedin.com/in/marco-cardozo-code)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Marcoca00794656) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046039086403&locale=es_LA) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.marco_.c/)
