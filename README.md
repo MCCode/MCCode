@@ -18,5 +18,6 @@
   <a href="https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"    
    width="80" height="20"/></a>
 
-![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCode&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCCode&layout=compact" alt="Idiomas principales"/>
+</div>
