@@ -8,7 +8,7 @@
 
 <h3>Proyectos de código abierto</h3>
 
- <img src="https://cdn.pixabay.com/animation/2023/11/09/03/05/03-05-45-320_512.gif" width="28"/> En proceso
+ <img src="https://cdn.pixabay.com/animation/2023/11/09/03/05/03-05-45-320_512.gif" En proceso width="28"/> 
 
 <h3>¿Dónde encontrarme?</h3>
 
