@@ -15,7 +15,7 @@
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Marcoca00794656) 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046039086403&locale=es_LA) 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.marco_.c/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)width = 10](https://steamcommunity.com/sharedfiles/filedetails/?id=2930703719) 
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=2930703719) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content) 
  
  
