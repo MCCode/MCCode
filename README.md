@@ -18,6 +18,10 @@
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=2930703719) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-cardozo-code/?trk=public_profile-settings_edit-profile-content) 
  
- 
+ <a href="https://www.facebook.com" target="_blank"><img src="https://ejemplo.com/facebook.png" width="30"/></a>
+ <a href="https://www.instagram.com" target="_blank"><img src="https://ejemplo.com/instagram.png" width="30"/></a>
+ <a href="https://t.me/tu_telegram" target="_blank"><img src="https://ejemplo.com/telegram.png" width="30"/></a>
+ <a href="https://www.linkedin.com" target="_blank"><img src="https://ejemplo.com/linkedin.png" width="30"/></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
